@@ -1,0 +1,50 @@
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\bin\Debug\netcoreapp2.1\appsettings.json
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.deps.json
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.runtimeconfig.json
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.runtimeconfig.dev.json
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.dll
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.pdb
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.csproj.AssemblyReference.cache
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.AssemblyInfoInputs.cache
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.AssemblyInfo.cs
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.csproj.CoreCompileInputs.cache
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.RazorAssemblyInfo.cache
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.RazorAssemblyInfo.cs
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.RazorTargetAssemblyInfo.cache
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.dll
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.pdb
+C:\repos\Etec\2022\PW2\Projeto Semestral\Turma B\quick-jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.deps.json
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.runtimeconfig.json
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.runtimeconfig.dev.json
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.dll
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.pdb
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.RazorAssemblyInfo.cache
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.RazorAssemblyInfo.cs
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.dll
+C:\Users\aluno\Desktop\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.deps.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.runtimeconfig.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.runtimeconfig.dev.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\bin\Debug\netcoreapp2.1\Backend.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.AssemblyInfoInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.AssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.RazorAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.RazorAssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Quick-Jobs\Backend\Backend\obj\Debug\netcoreapp2.1\Backend.genruntimeconfig.cache

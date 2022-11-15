@@ -1,0 +1,47 @@
+.card {
+  display: flex;
+  background-color: #f4af56;
+  border-radius: 1rem;
+  padding: 2rem;
+  width: 600px;
+  margin-bottom: 2rem;
+  box-shadow: rgb(0, 38, 255) 0px 7px 29px 0px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.card:hover {
+  opacity: 3;
+}
+
+.card:hover h1 {
+  text-decoration: underline;
+}
+
+.company-logo {
+  margin-right: 1.5rem;
+  min-width: max-content;
+}
+
+.company-logo img {
+  border-radius: 1rem;
+  height: 100%;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.text-area {
+  text-align: left;
+}
+
+.title-area {
+  margin-bottom: 2rem;
+}
+.content-area {
+  margin-bottom: 1rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
